@@ -1,0 +1,1337 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+*{
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+.imgone{
+  height: 30px;
+  margin-left: 395px;
+ position: relative;
+ top: 25px;
+}
+.flex{
+  display: flex;
+  
+}
+.flexone{
+  display: flex;
+  position: fixed;
+  top: 0px;
+  background-color: #FFFFFF;
+  width: 382px;
+  z-index: 2;
+}
+.headtwo{
+  margin-left: 350px;
+  position: fixed;
+  top: -5px;
+  background-color: #FFFFFF;
+  height: 71px;
+  width: 1067px;
+  z-index: 2;
+  
+}
+.logo{
+  margin-top: 10px;
+}
+.home{
+position: relative;
+top: 30px;
+margin-left: 170px;
+text-decoration: none;
+color: black;
+}
+.product{
+  position: relative;
+  top: 30px;
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+}
+.input{
+  position: relative;
+  top: 28px;
+  margin-left: 350px;
+  height: 30px;
+  width: 196px;
+  padding-left: 5px;
+  border-radius: 5px;
+  border-color: black;
+
+}
+.aboutus{
+  position: relative;
+  top: 30px;
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+}
+.carts{
+  
+  position: relative;
+  top: 28px;
+  margin-left: 400px;
+  text-decoration: none;
+  color: black;
+  
+}
+.cartsimg{
+  height: 25px;
+}
+.searchheight{
+  height: 20px;
+ position: relative;
+ top: 28px;
+ margin-left: 20px;
+}
+.profileheight{
+  height: 30px;
+ position: relative;
+ top: 26px;
+ margin-left: 20px;
+}
+.header{
+  background-color: #FFFFFF;
+  height: 80px;
+  
+  
+}
+.imagefirst{
+ float: right;
+ margin-top: 25px;
+  margin-right: 20px;
+}
+.banner{
+  /* background: url(../src/images/blue-sofa.jpg); */
+  background-color: #2AE3F9;
+  width: 100%;
+  height: 500px;
+  margin-top: 22px;
+ 
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: bottom;
+}
+.title{
+  font-size: 45px;
+    width: 520px;
+    text-align: center;
+    margin-left: 385px;
+    padding-top: 10px;
+}
+.content{
+  font-size: 20px;
+    margin-left: 305px;
+    margin-top: 20px;
+}
+.btnone{
+  background-color: black;
+  color: #FFFFFF;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-left: 565px;
+  border: none;
+  margin-top: 30px;
+  width: 120px;
+  height: 40px;
+}
+
+.brownsofa{
+  margin-top: -228px;
+  margin-left: 227px;
+ 
+}
+.brown{
+  width: 700px;
+  margin-top: 76px;
+  margin-left: 50px;
+
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.subone{
+  background-image: url(./images/interior-living-room-design-scandinavian-style-warm-tone.jpg);
+  width: 40%;
+  height: 360px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.subtwo{
+  background-image:url(./images/office-desk-with-laptop-device-chair-shelf.jpg) ;
+  width: 40%;
+  height: 360px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.divmove{
+  margin-left: 170px;
+  margin-top: 60px;
+}
+.subhome{
+  margin-left: 40px;
+  font-size: 20px;
+}
+.subfurniture{
+  font-size: 20px;
+  margin-left: 17px;
+}
+.suboffice{
+  font-size: 20px;
+  margin-left: 15px;
+}
+.subfurnitureone{
+  font-size: 20px;
+}
+.divmoveone{
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.paramove{
+  margin-left: 30px;
+  text-decoration: underline;
+}
+.paramoveone{
+  margin-left: 10px;
+  text-decoration: underline;
+}
+.textaligh{
+  text-align: center;
+  font-size: 35px;
+  
+  
+}
+.backgroundcart{
+  background-image: url(./images/four-person-table-front-window-restaurant.jpg);
+  width: 100%;
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  margin-top: 50px;
+ 
+ 
+
+}
+.cart{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+  
+  
+  
+
+}
+.backgroundcartone{
+  background-image: url(./images/suchit-poojari-ljRiZl00n18-unsplash.jpg);  
+  width: 100%;
+ 
+
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left: 0px;
+ border-radius: 20px;
+ margin-top: 50px;
+
+}
+.cartone{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.backgroundcarttwo{
+  background-image: url(./images/farhad-fallahzad-VtQMBG_Ljc0-unsplash.png);  
+  width: 100%;
+ 
+
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left:0px;
+ border-radius: 20px;
+ margin-top: 50px;
+}
+.carttwo{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.backgroundcartthree{
+  background-image: url(./images/saeed-aljarwi-GOh9wefdmD8-unsplash.png);  
+  width: 100%;
+ 
+
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left: 0px;
+ border-radius: 20px;
+ margin-top: 50px;
+  
+}
+.cartthree{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+
+.maintwo{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+  
+  
+}
+.maincolor{
+  
+  height: 930px;
+  border-radius: 20px;
+}
+
+.mainone{
+  display: flex;
+  justify-content: space-around;
+  /* background-color: #65EAEA; */
+  border-radius: 20px;
+ 
+ 
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+}
+
+.font{
+  font-size: 20px;
+  text-align: center;
+}
+.fontone{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.fonttwo{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.fontthree{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.number{
+  text-align: center;
+  font-size: 20px;
+}
+
+.numberone{
+  text-align: center;
+  
+  font-size: 20px;
+}
+.numbertwo{
+  margin-left: 0px;
+  text-align: center;
+  font-size: 20px;
+}
+.numberthree{
+  margin-left: 1px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.backgroundcartfour{
+  background-image: url(./images/shche_-team-cwMr5XYhNew-unsplash\ 1.png);
+  width: 100%;
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
+.backgroundcartfive{
+  background-image: url(./images/718XOFTWzEL\ 1.png);  
+  width: 100%;
+ 
+
+  height: 360px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left: 0px;
+ border-radius: 20px;
+}
+.backgroundcartsix{
+  background-image: url(./images/Mohs_22_25640-scaled\ 1.png);  
+  width: 100%;
+ 
+
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left:0px;
+ border-radius: 20px;
+}
+.backgroundcartseven{
+  background-image: url(./images/athos-computer-desk-in-walnut-finish-by-woodbuzz-athos-computer-desk-in-walnut-finish-by-woodbuzz-jrccyk\ 1.png);  
+  width: 100%;
+ 
+
+  height: 334px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+ left: 0px;
+ border-radius: 20px;
+}
+.cartfour{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.cartfive{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.cartsix{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.cartseven{
+  margin-left: 227px;
+  
+  
+  color: white;
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.fontfour{
+  font-size: 20px;
+  text-align: center;
+}
+.fontfive{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.fontsix{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.fontseven{
+  font-size: 20px;
+  margin-left: 0px;
+  text-align: center;
+}
+.numberfour{
+  text-align: center;
+  font-size: 20px;
+}
+.numberfive{
+  margin-left: 0px;
+  text-align: center;
+  font-size: 20px;
+
+
+  
+}
+.numbersix{
+  margin-left: 0px;
+  text-align: center;
+  font-size: 20px;
+  
+}
+.numberseven{
+  margin-left: 1px;
+  text-align: center;
+  font-size: 20px;
+  
+}
+/* .backcolor{
+  background-image: url(./images/nathan-fertig-FBXuXp57eM0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  width: 100%;
+  height: 899px;
+  margin-top: 65px;
+ 
+  
+  
+} */
+.discount{
+  text-align: center;
+  margin-bottom: 15px;
+ 
+}
+.sofa{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.limitted{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.days{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.delivery{
+  height: 100px;
+}
+.quality{
+  height: 100px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.firstsub{
+  display: flex;
+}
+.secondsub{
+  display: flex;
+}
+.thirdsub{
+  display: flex;
+}
+.fontdelivery{
+  font-size: 20px;
+}
+.fontquality{
+  font-size: 20px;
+}
+.downdiv{
+  margin-top: 12px;
+}
+.downdivone{
+  margin-top: 7px;
+}
+.return{
+  height: 70px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+.fontreturn{
+  font-size: 20px;
+}
+.downdivthree{
+  margin-top: 8px;
+}
+.firstmain{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* background-color: #2AE3F9; */
+
+}
+.blog{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.post{
+  text-align: center;
+  font-size: 20px;
+}
+.sven{
+ width: 341px;
+ margin-bottom: 10px;
+ margin-top: 0px;
+}
+
+.svenone{
+  width: 371px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+.sventwo{
+  width: 344px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+.firstmainone{
+ display: flex;
+ justify-content: space-around;
+ margin-top: 50px;
+ margin-bottom: 100px;
+ /* background-color: #2AE3F9; */
+ height: 500px;
+ 
+}
+.borders{
+  border: 0.5px solid #efd9d9;
+}
+.bordersone{
+  border: 0.5px solid #efd9d9;
+}
+.borderstwo{
+  border: 0.5px solid #efd9d9;
+}
+.change{
+ font-size: 20px;
+ margin-left: 20px;
+ margin-bottom: 10px;
+ 
+}
+.changeone{
+  font-size: 20px;
+  margin-left: 20px;
+
+  margin-bottom: 10px;
+}
+.changetwo{
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+
+
+}
+.changeo{
+  margin-left: 20px;
+}
+
+.pa{
+margin-left: 20px;
+margin-bottom: 10px;
+}
+.paone{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.patwo{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.parathree{
+  margin-left: 20px;
+  text-decoration: underline;
+  
+}
+.parafour{
+  margin-left: 20px;
+  text-decoration: underline;
+  
+}
+.parafive{
+  margin-left: 20px;
+  text-decoration: underline;
+  
+}
+.modernroom{
+  background-image: url(./images/empty-modern-room-with-furniture\ \(3\).jpg);
+  width: 100%;
+ height: 944px;
+ margin-top: 50px;
+ display: flex;
+ background-size: cover;
+
+}
+.profile{
+  height: 100px;
+  margin-left: 400px;
+  margin-top: 85px;
+  
+}
+.angle{
+  margin-top: 100px;
+  margin-left: 15px;
+}
+.cen{
+  margin-top: 5px;
+}
+.cenone{
+  margin-top: 50px;
+}
+.modernroomone{
+  display: flex;
+  justify-content: space-around;
+  /* margin-bottom: 50px; */
+  margin-top: 50px;
+  background-color: #e3e3e3;
+  height: 220px;
+
+
+}
+.subscribe{
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+.save{
+  text-align: center;
+
+}
+.realone{
+  margin-top: 85px;
+}
+.box{
+  width: 420px;
+  height: 50px;
+  padding-left: 10px;
+  border-color: black;
+ 
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  height: 350px;
+}
+.footerheading{
+ margin-top: 50px;
+ color: #FFFFFF;
+ font-size: 24px;
+}
+.footerheadingone{
+  margin-top: 50px;
+  color: #FFFFFF;
+  font-size: 24px;
+}
+.footerheadingtwo{
+  margin-top: 50px;
+  color: #FFFFFF;
+  font-size: 24px;
+}
+.footerheadingthree{
+  margin-top: 50px;
+  color: #FFFFFF;
+}
+.footerheadingfour{
+  margin-top: -36px;
+  font-size: 20px;
+  text-align: right;
+  color: #FFFFFF;
+  font-size: 13px;
+  margin-right: 40px;
+}
+.footerp{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpone{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerptwo{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpthree{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpfour{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpfive{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpsix{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpseven{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpeight{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpnine{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpten{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpeleven{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerptwelve{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpthirteen{
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+.footerpfifteen{
+  margin-top: -39px;
+  text-align: right;
+  color: #FFFFFF;
+  font-size: 13px;
+  margin-right: 60px;
+}
+.heart{
+  height: 12px;
+}
+.visa{
+  height: 50px;
+  margin-top: -13px;
+}
+.footers{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+.paraheart{
+  margin-right: 600px;
+  margin-top: 5px;
+}
+/* product */
+.productbanner{
+  background-image: url(./images/abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-backgroundbusiness-reportdigitalwebsite-templatebackdrop.jpg);
+  width: 100%;
+  height: 500px;
+  margin-top: 20px;
+}
+.comfortable{
+  height: 500px;
+  float: right;
+  margin-right: 100px;
+}
+/* .productsection{
+  margin-left: 580px;
+  position: relative;
+  top: 25px;
+  margin-bottom: 50px;
+}
+.bigsaleoffer{
+  position: relative;
+  bottom: 120px;
+}
+.productparagraph{
+  text-align: center;
+  margin-left: 414px;
+} */
+.starimage{
+  height: 20px;
+  margin-bottom: 25px;
+}
+.double{
+  display: flex;
+}
+.numberwidth{
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.tripple{
+  display: flex;
+}
+.trippleone{
+  display: flex;
+}
+.heartattack{
+  height: 10px;
+  margin-right: 10px;
+  
+}
+
+.swing{
+  display: flex;
+  margin-bottom: 50px;
+}
+.cate{
+  margin-top: 6px;
+  font-size: 15px;
+  margin-left: 9px;
+}
+.acceele{
+  margin-top: 4px;
+  margin-left: 10px;
+}
+.logos{
+  height: 45px;
+  margin-left: 10px;
+}
+.logoflex{
+  display: flex;
+}
+.fullflex{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.kets{
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+.slightmove{
+  margin-left: 10px;
+}
+.what{
+  margin-bottom: 30px;
+  text-align: left;
+  width: 500px;
+  margin-left: 9px;
+  
+}
+.grouptable{
+  margin-bottom: 30px;
+  border: 1px solid black;
+  margin-left: 9px;
+}
+.addsstocart{
+  margin-bottom: 30px;
+  height: 50px;
+  width: 150px;
+  background-color: black;
+  border: none;
+  color: #FFFFFF;
+  border-radius: 25px;
+  margin-left: 9px;
+}
+.ifs{
+  height: 40px;
+  width: 135px;
+  margin-left: 9px;
+  margin-bottom: 30px;
+
+}
+.ifsone{
+  height: 40px;
+  width: 135px;
+  margin-left: 30px;
+}
+
+.desreone{
+  
+  text-align: center;
+  margin-bottom: 50px;
+}
+.desretwo{
+text-align: center;
+
+}
+.trackdown{
+  margin-bottom: 50px;
+}
+.RelatedProducts{
+  text-align: center;
+}
+.producti{
+  width: 337px;
+  height: 400px;
+  
+}
+.productiflexs{
+  display: flex;
+}
+.productione{
+  width: 337px;
+  height: 400px;
+  margin-left: -25px;
+}
+.productitwo{
+  width: 337px;
+  height: 400px;
+  margin-left: 20px;
+}
+.stilllife{
+  width: 500px;
+  height: 580px;
+  object-fit: cover;
+}
+.sharethis{
+  margin-top: 8px;
+  font-size: 20px;
+  margin-left: 9px;
+}
+.beerconcept{
+  width: 500px;
+  height: 580px;
+}
+.ketsone{
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+.whatone{
+  margin-bottom: 25px;
+  text-align: left;
+  width: 500px;
+}
+.slightmoveone{
+  margin-left: 10px;
+}
+.numberwidthone{
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.sharethisone{
+  margin-top: 8px;
+  font-size: 20px;
+}
+.Qty{
+  border: 1px solid black;  
+    width: 100px;
+  height: 30px;
+  text-align: center;
+
+}
+.Qtyone{
+  border: 1px solid black;
+  width: 400px;
+  height: 30px;
+  text-align: center;
+}
+.qtyp{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+.Qtytwo{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+.Qtythree{
+  border: 1px solid black;
+  width: 400px;
+  height: 30px;
+  text-align: center;
+}
+.Qtypp{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+.picone{
+  width: 350px;
+}
+.datapriceflex{
+  display: flex;
+  margin-bottom: 20px;
+}
+.datacontent{
+  margin-bottom: 20px;
+  margin-left: 9px;
+}
+.datastar{
+  margin-bottom: 20px;
+}
+.paracustomer{
+  margin-top: 2px;
+}
+.dataflex{
+  display: flex;
+}
+.dataline{
+  margin-left: 9px;
+  margin-bottom: 20px;
+}
+.classprice{
+  font-size: 20px;
+  margin-left: 9px;
+}
+.dataprice{
+  margin-top: 5px;
+}
+.free{
+ margin-top: -25px;
+ margin-bottom: 20px;
+ margin-left: 9px;
+}
+.topbrand{
+  margin-bottom: 20px;
+  margin-left: 9px;
+}
+.bankoffer{
+  margin-bottom: 20px;
+  margin-left: 9px;
+}
+.cartcolor{
+  color: black;
+  margin-left: 0px;
+  
+}
+.hcartcolor{
+  color: black;
+  margin-left: 0px;
+  
+}
+.pcartcolor{
+  color: black;
+  margin-left: 0px;
+  
+}
+.ncartcolor{
+  color: black;
+  margin-top: -13px;
+  
+}
+.tcartcolor{
+  color: black;
+  margin-left: 0px;
+ 
+}
+.cartflex{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 45px;
+  background-color: #76EDFB;
+  
+}
+.buttoncart{
+  display: flex;
+  margin-left: 0px;
+  
+}
+.cartsf{
+  display: flex;
+}
+.decre{
+  height: 22px;
+  margin-top: 2px;
+}
+.card{
+  margin-bottom: 20px;
+  margin-top: 70px;
+}
+
+.cartremove{
+  margin-left: 0px;
+}
+.subcarddesign{
+  width: 300px;
+}
+.subcarddesignone{
+  width: 500px;
+  display: flex;
+  margin: auto;
+}
+
+.widthstart{
+  width: 50%;
+  margin-left: -10px;
+}
+.carddimage{
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.carf{
+  display: flex;
+  margin-bottom:-2px;
+ 
+ 
+}
+.moveleft{
+ 
+  margin-left: 10px;
+  
+}
+.moveleftone{
+  margin-left: 10px;
+  margin-bottom: 60px;
+}
+.downs{
+  margin-bottom: 60px;
+}
+.downsone{
+  margin-bottom: 60px;
+}
+.downstwo{
+  margin-bottom: 60px;
+}
+.downsthree{
+  margin-bottom: 60px;
+}
+.upcart{
+  margin-bottom: 60px;
+ 
+}
+.totalcart{
+  margin-left: 15px;
+}
+.imgsss{
+  height: 451px;
+}
+.cardsss{
+  margin-bottom: 30px;
+}
+.cardsstet{
+  margin-bottom: 25px;
+}
+.cardsstetone{
+  margin-bottom:20px;
+}
+.fullflex{
+  display: flex;
+}
+.aboutimg{
+  width: 70%;
+  margin-left: 109px;
+ 
+}
+.flexabout{
+  display: flex;
+  margin-top: 50px;
+  border: 1px solid rgb(196, 189, 189);
+  
+}
+.aboutleft{
+  margin-left: 20px;
+}
+.carddining{
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+.chairbanner{
+  width: 100%;
+  height: 500px;
+  background-color: #B2A5C9;
+  display: flex;
+}
+.chairbanner1{
+  width: 100%;
+  height: 300px;
+  background-color: #B2A5C9;
+  display: flex;
+  justify-content: center;
+}
+.bannerimggirl{
+  margin-top: -80px;
+  margin-right: 76px;
+  margin-left: 285px;
+  
+}
+.wellcomes{
+  font-size: 20px;
+  margin-top: 153px;
+  margin-left: 125px;
+}
+.wellcomes1{
+  font-size: 20px;
+  margin-top: 153px;
+
+}
+.chairsstore{
+  margin-top: 25px;
+  margin-left: 125px;
+  margin-bottom: 25px;
+  font-size: xx-large;
+  width: 100%;
+}
+.headingchairstore{
+  text-align: left;
+  margin-left: 125px;
+  margin-bottom: 40px;
+  font-size: medium;
+  width: 450px;
+}
+.buynow{
+  margin-left: 125px;
+  border: none;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: medium;
+}
+.bannerimggirl1{
+  margin-top: -30px;
+    margin-right: 76px;
+    margin-left: 198px;
+}
+.bannerimggirl2{
+  margin-top: -20px;
+    margin-right: 76px;
+    margin-left: 198px;
+}
